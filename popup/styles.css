@@ -1,0 +1,26 @@
+html, body {
+    width: 100px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .button {
+    margin: 3% auto;
+    border-radius: 4px;
+    padding: 4px;
+    text-align: center;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: blanchedalmond;
+  }
+  
+  .poke:hover {
+      opacity: 80%;
+  }
+  
+  .poke {
+    background-color: rgb(159, 48, 48);
+  }
+ 
